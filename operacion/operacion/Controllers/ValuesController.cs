@@ -9,7 +9,7 @@ namespace operacion.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class operacionController : ControllerBase
+    public class OperacionesController : ControllerBase
 
     {
         [HttpGet]
