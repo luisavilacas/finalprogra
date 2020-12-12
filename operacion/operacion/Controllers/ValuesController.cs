@@ -18,7 +18,7 @@ namespace operacion.Controllers
             string texto= " " ;
             if (numero==0)
             {
-                texto = "Realizado por Luis Avila Castillo";
+                texto = "Realizado por Luis Horacio Avila Castillo";
 
             }
             if (numero <0)
