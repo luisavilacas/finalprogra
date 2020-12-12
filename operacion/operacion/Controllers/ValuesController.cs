@@ -13,7 +13,7 @@ namespace operacion.Controllers
 
     {
         [HttpGet]
-        public string funcion (int numero)
+        public string operaciones (int numero)
         {
             string texto= " " ;
             if (numero==0)
